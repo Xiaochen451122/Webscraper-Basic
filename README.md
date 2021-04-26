@@ -11,3 +11,5 @@ Use 'cheerio' to catch the page elements and data (npm install cheerio).
 Use 'nightmare' to avoid the impact due to the different loading time (npm sintall nightmare).
 
 I use the Baidu News (http://news.baidu.com/) as an example, catch the information in the DOM structure ('div#pane-news ul li a'). 
+
+In the next following stage, I will add time, which can search the information every 30 seconds (example). 
